@@ -12,6 +12,14 @@ Repository for the activities of the Digital Circuits discipline at UFSC, Araran
 
 <br>
 
+## Recommendation
+> If you are having difficulty reconciling this discipline, I recommend the following playlist.
+>
+> - [Circuitos Digitais - Pedro Souza](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)
+
+
+<br>
+
 ## Cloning this Repository
 1. On GitHub.com, navigate to the repository's main page.
 2. Above the list of files, click code.
