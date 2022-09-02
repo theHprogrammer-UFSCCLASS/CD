@@ -1,4 +1,4 @@
-# Data Structures
+# Digital Circuits
 Repository for the activities of the Digital Circuits discipline at UFSC, Araranguá campus.
 
 <br>
@@ -39,7 +39,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
     <tr>
         <td align="center">
             <a href="https://github.com/helderhsilva">
-                <img src="https://ik.imagekit.io/helderhsilva/myAvatar_1RkEQbhir.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643634706178" width="150px;" alt="Helder's Image" />
+                <img src="https://avatars.githubusercontent.com/u/79870881?v=4" width="150px;" alt="Helder's Image" />
                 <br />
                 <sub><b>Helder Henrique</b></sub>
             </a>
